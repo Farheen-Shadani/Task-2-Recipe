@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, #ffd9ba79, #f3d1d180);
+}
+
+h1 {
+    text-shadow: 3px 3px 5px #333;
+    text-align: center;
+}
+
+#Recipe-By {
+    text-align: center;
+}
+
+#image {
+    text-align: center;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    height: auto;
+    padding: 20px;
+    background-color: rgba(0, 255, 200, 0.164);
+    box-shadow: 10px 5px 10px gray;
+}
+
+footer {
+    text-align: center;
+}
